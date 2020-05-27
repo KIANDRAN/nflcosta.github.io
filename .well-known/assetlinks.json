@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "pt.saudeunilabs",
+    "sha256_cert_fingerprints":
+    [38:FE:AB:6F:30:2E:B8:01:0D:FE:E0:F3:A8:5D:0A:97:03:2F:19:DA:3E:45:11:39:F7:9E:65:96:49:F5:A8:D1]
+  }
+}]
